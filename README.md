@@ -9,7 +9,7 @@ We wrote an algorithm that utilises Variational Autoencoder architecture for ima
 Our model can be applied to any image data
 
 
-Examles of reconstraction:
+Examples of reconstruction:
 
 Digits:
 
