@@ -14,3 +14,7 @@ Examles of reconstraction:
 Digits:
 
 ![](images/digits.png)
+
+Fashion:
+
+![](images/fashion.png)
